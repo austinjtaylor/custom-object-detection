@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>5.jpg</filename>
+	<path>C:\Users\Austin\Desktop\object-detection\Images\5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1423</width>
+		<height>823</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frisbee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1305</xmin>
+			<ymin>553</ymin>
+			<xmax>1334</xmax>
+			<ymax>575</ymax>
+		</bndbox>
+	</object>
+</annotation>
